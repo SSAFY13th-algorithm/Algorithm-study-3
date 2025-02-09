@@ -36,12 +36,12 @@ To. Reviewers
 ## 주차 별 문제풀이 
 https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/22697
  
-### Week 01 (25.01.20 ~ 25.01.27)
+### Week 04 (25.02.10 ~ 25.02.17)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 그래프 |  <a href="https://www.acmicpc.net/problem/17472">다리만들기 2</a> | <a href="">🔗</a> |
-| BFS |  <a href="https://www.acmicpc.net/problem/22856">게리맨더링</a> | <a href="">🔗</a> |
-| 완탐 |  <a href="https://www.acmicpc.net/problem/17070">파이프 옮기기 1</a> | <a href="">🔗</a> |
-| 구현 |  <a href="https://www.acmicpc.net/problem/2578">빙고</a> | <a href="">🔗</a> |
-| DP |  <a href="https://www.acmicpc.net/problem/10844">쉬운 계단 수</a> | <a href="">🔗</a> |
+| 수학 |  <a href="https://www.acmicpc.net/problem/1110">더하기 사이클</a> | <a href="">🔗</a> |
+| 완탐 |  <a href="https://www.acmicpc.net/problem/1145">적어도 대부분 배수</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/2846">오르막길</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/3085">사탕 게임</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/2851">슈퍼 마리오</a> | <a href="">🔗</a> |
 <br>
