@@ -3,7 +3,7 @@
 - 공통 문제 마감 시간 : 매 주 일요일 23시 59분
 - 마감 시간 전까지 해당 주차 5문제을 풀이하여 개인 브랜치에 업로드하고, PR을 제출합니다.
 - 각 카테고리에 맞게, 매주 5문제의 공통 문제가 주어집니다.
-    - 난이도는 Bronze ~ Silver 문제 입니다.
+    - 난이도는 Silver ~gold5 문제 입니다.
 - PR에 다른 사람의 풀이를 보고 적극적인 커멘트를 남겨주세요
 
 ## 🗓️ 파일구조는 다음예시처럼 해주세요 
@@ -39,9 +39,9 @@ https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/
 ### Week 04 (25.02.10 ~ 25.02.17)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 수학 |  <a href="https://www.acmicpc.net/problem/1110">더하기 사이클</a> | <a href="">🔗</a> |
-| 완탐 |  <a href="https://www.acmicpc.net/problem/1145">적어도 대부분 배수</a> | <a href="">🔗</a> |
-| 구현 |  <a href="https://www.acmicpc.net/problem/2846">오르막길</a> | <a href="">🔗</a> |
+| 수학 |  <a href="https://www.acmicpc.net/problem/1193">분수찾기</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/2563">색종이</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/3711">학번 </a> | <a href="">🔗</a> |
 | 구현 |  <a href="https://www.acmicpc.net/problem/3085">사탕 게임</a> | <a href="">🔗</a> |
-| 구현 |  <a href="https://www.acmicpc.net/problem/2851">슈퍼 마리오</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/4108">지뢰찾기 </a> | <a href="">🔗</a> |
 <br>
