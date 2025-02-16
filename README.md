@@ -39,9 +39,9 @@ https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/
 ### Week 04 (25.02.10 ~ 25.02.17)
 | Category | Title | Link |
 | :------: | :---: | :--: |
-| 수학 |  <a href="https://www.acmicpc.net/problem/1110">더하기 사이클</a> | <a href="">🔗</a> |
-| 완탐 |  <a href="https://www.acmicpc.net/problem/1145">적어도 대부분 배수</a> | <a href="">🔗</a> |
-| 구현 |  <a href="https://www.acmicpc.net/problem/2846">오르막길</a> | <a href="">🔗</a> |
-| 구현 |  <a href="https://www.acmicpc.net/problem/3085">사탕 게임</a> | <a href="">🔗</a> |
-| 구현 |  <a href="https://www.acmicpc.net/problem/2851">슈퍼 마리오</a> | <a href="">🔗</a> |
+| 수학 |  <a href="https://www.acmicpc.net/problem/1193">분수찾기</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/2563">색종이</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/3711">학번 </a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/1181">단어 정렬</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/4108">지뢰찾기 </a> | <a href="">🔗</a> |
 <br>
