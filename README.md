@@ -35,6 +35,16 @@ To. Reviewers
  
 ## 주차 별 문제풀이 
 https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/22697
+
+### Week 05 (25.02.17 ~ 25.02.24)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 |  <a href="https://www.acmicpc.net/problem/4659">비밀번호 발음하기</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/25757">임스와 함께하는 미니게임</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/20125">쿠키의 신체측정 </a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/1205">등수 구하기</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/1244">스위치 켜고 끄기 </a> | <a href="">🔗</a> |
+<br>
  
 ### Week 04 (25.02.10 ~ 25.02.17)
 | Category | Title | Link |
