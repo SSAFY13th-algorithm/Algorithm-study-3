@@ -36,6 +36,16 @@ To. Reviewers
 ## 주차 별 문제풀이 
 https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/22697
 
+### Week 06 (25.02.25 ~ 25.03.03)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 |  <a href="https://www.acmicpc.net/problem/1094">막대</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/11053">가장 긴 증가하는 부분수열</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/6603">로또 </a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/15651">N과 M (3)</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/1074">Z </a> | <a href="">🔗</a> |
+<br>
+
 ### Week 05 (25.02.17 ~ 25.02.24)
 | Category | Title | Link |
 | :------: | :---: | :--: |
