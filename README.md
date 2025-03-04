@@ -34,7 +34,16 @@ To. Reviewers
 
  
 ## 주차 별 문제풀이 
-https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/22697
+
+### Week 07 (25.03.04 ~ 25.03.09)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/15652">N과 M (4)</a> | <a href="">🔗</a> |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/15654">N과 M (5)<a href="">🔗</a> |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/15655">N과 M (6)</a> | <a href="">🔗</a> |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/1759">암호 만들기</a> | <a href="">🔗</a> |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/16938">캠프 준비 </a> | <a href="">🔗</a> |
+<br>
 
 ### Week 06 (25.02.25 ~ 25.03.03)
 | Category | Title | Link |
