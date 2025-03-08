@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ1205 {
 	
 	public static class rank { // 변수들을 저장하기 위한 클래스
         int score;
