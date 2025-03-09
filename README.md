@@ -35,6 +35,16 @@ To. Reviewers
  
 ## 주차 별 문제풀이 
 
+### Week 08 (25.03.04 ~ 25.03.09)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/15663">N과 M (9)</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/11725">트리의 부모 찾기| <a href="">🔗</a> |
+| DP |  <a href="https://www.acmicpc.net/problem/11660">구간 합 구하기 5</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/5639">이진 검색 트리</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/1753">최단경로 </a> | <a href="">🔗</a> |
+<br>
+
 ### Week 07 (25.03.04 ~ 25.03.09)
 | Category | Title | Link |
 | :------: | :---: | :--: |
