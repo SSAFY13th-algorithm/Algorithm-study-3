@@ -35,7 +35,7 @@ To. Reviewers
  
 ## 주차 별 문제풀이 
 
-### Week 08 (25.03.04 ~ 25.03.09)
+### Week 08 (25.03.10 ~ 25.03.16)
 | Category | Title | Link |
 | :------: | :---: | :--: |
 | 백트래킹 |  <a href="https://www.acmicpc.net/problem/15663">N과 M (9)</a> | <a href="">🔗</a> |
