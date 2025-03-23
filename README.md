@@ -14,26 +14,22 @@
 - main에 푸쉬하는 것을 금지합니다 (전부 날라갈 위험이 있음!!)
 - 브랜치명은 다음과 같은 규칙을 지켜주세요!! ex) 이름/week-1, d11210920/week-1
 - 이슈는 따로 생성하지 않으셔도 됩니다!! 다만 , PR template을 작성하고 카테고리,제목,링크만 제대로 연결시키고 자신의 README에 추가해주세요
-## ❗️ PR 규칙 및 Commit Message 규칙 ❗️
-### [김동하-1주차 알고리즘 스터디] 
-#### Week 01 (25.01.20 ~ 25.01.27)
-| Category | Title | Link |
-| :------: | :---: | :--: |
-| 그래프 |  <a href="https://www.acmicpc.net/problem/17472">다리만들기 2</a> | <a href="">🔗</a> |
-| BFS  |  <a href="https://www.acmicpc.net/problem/22856">게리맨더링</a> | <a href="">🔗</a> |
-| 완탐 |  <a href="https://www.acmicpc.net/problem/17070">파이프 옮기기 1</a> | <a href="">🔗</a> |
-| 구현 |  <a href="https://www.acmicpc.net/problem/2578">빙고</a> | <a href="">🔗</a> |
-| DP |  <a href="https://www.acmicpc.net/problem/10844">쉬운 계단 수</a> | <a href="">🔗</a> |
-<br>
 
-```
-To. Reviewers
-```
 ### Commit Message
 [Baekjoon-문제번호] 문제명
 
  
 ## 주차 별 문제풀이 
+
+### Week 10 (25.03.24 ~ 25.03.31)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/1197">최소 스패닝 트리</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/1238">파티 | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/14940">쉬운 최단거리</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/11403">경로찾기</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/16928">뱀과 사다리 게임  </a> | <a href="">🔗</a> |
+<br>
 
 ### Week 09 (25.03.17 ~ 25.03.23)
 | Category | Title | Link |
