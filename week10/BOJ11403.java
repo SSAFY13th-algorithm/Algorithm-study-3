@@ -26,7 +26,7 @@ public class BOJ11403 {
 			}
 		}
 
-		for (int k = 1; k <= n; k++) {
+		for (int k = 1; k <= n; k++) { // 플로이드-워셜 알고리즘으로 모든 점에서 다른 모든 점으로의 거리 계산
 			for (int i = 1; i <= n; i++) {
 				for (int j = 1; j <= n; j++) {
 					arr[i][j] = Math.min(arr[i][j], arr[i][k] + arr[k][j]);

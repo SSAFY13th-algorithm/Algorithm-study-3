@@ -36,8 +36,8 @@ public class BOJ1238 {
 		m = Integer.parseInt(st.nextToken());
 		x = Integer.parseInt(st.nextToken());
 
-		graph = new ArrayList[n + 1];
-		graph2 = new ArrayList[n + 1];
+		graph = new ArrayList[n + 1]; // 목적지 도착용
+		graph2 = new ArrayList[n + 1]; // 목적지에서 귀가용
 
 		for (int i = 0; i <= n; i++) {
 			graph[i] = new ArrayList<>();
@@ -63,7 +63,7 @@ public class BOJ1238 {
 		System.out.println(max);
 	}
 
-	public static int[] Dijkstra(int start) {
+	public static int[] Dijkstra(int start) { // 목적지 도착용
 		boolean[] check = new boolean[n + 1];
 		int[] dist = new int[n + 1];
 		int INF = Integer.MAX_VALUE;
@@ -93,7 +93,7 @@ public class BOJ1238 {
 		return dist;
 	}
 
-	public static int[] Dijkstra2(int start) {
+	public static int[] Dijkstra2(int start) { // 목적지 출발용
 		boolean[] check = new boolean[n + 1];
 		int[] dist = new int[n + 1];
 		int INF = Integer.MAX_VALUE;
