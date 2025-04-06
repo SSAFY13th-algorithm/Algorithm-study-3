@@ -1,0 +1,43 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+
+        int x = Integer.parseInt(br.readLine());
+
+        // 대각선 찾기
+        int n = 0;      // 대각선 번호
+        int sum = 0;    // 대각선별 누적합
+        while(sum < x) {
+            n++;        // 다음 대각선으로 넘어감
+            sum += n;   // 현재 대각선의 분수 개수를 누적합에 더함
+        }
+
+        // 대각선 내 위치
+        // 이전 대각선까지의 누적합은 (sum - n)임
+        int offset = x - (sum - n);  // 현재 대각선 안에서 몇 번째 분수인지
+
+        // 분자와 분모
+        int numerator, denominator;
+        if(n % 2 == 0) {  // 짝수 대각선: 아래에서 위로 진행
+            numerator = offset;
+            denominator = n + 1 - offset;
+        } else {  // 홀수 대각선: 위에서 아래로 진행
+            numerator = n + 1 - offset;
+            denominator = offset;
+        }
+
+
+        bw.write(numerator + "/" + denominator);
+        bw.flush();
+        bw.close();
+        br.close();
+    }
+}
