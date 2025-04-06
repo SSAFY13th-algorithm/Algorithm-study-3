@@ -14,27 +14,72 @@
 - main에 푸쉬하는 것을 금지합니다 (전부 날라갈 위험이 있음!!)
 - 브랜치명은 다음과 같은 규칙을 지켜주세요!! ex) 이름/week-1, d11210920/week-1
 - 이슈는 따로 생성하지 않으셔도 됩니다!! 다만 , PR template을 작성하고 카테고리,제목,링크만 제대로 연결시키고 자신의 README에 추가해주세요
-## ❗️ PR 규칙 및 Commit Message 규칙 ❗️
-### [김동하-1주차 알고리즘 스터디] 
-#### Week 01 (25.01.20 ~ 25.01.27)
-| Category | Title | Link |
-| :------: | :---: | :--: |
-| 그래프 |  <a href="https://www.acmicpc.net/problem/17472">다리만들기 2</a> | <a href="">🔗</a> |
-| BFS  |  <a href="https://www.acmicpc.net/problem/22856">게리맨더링</a> | <a href="">🔗</a> |
-| 완탐 |  <a href="https://www.acmicpc.net/problem/17070">파이프 옮기기 1</a> | <a href="">🔗</a> |
-| 구현 |  <a href="https://www.acmicpc.net/problem/2578">빙고</a> | <a href="">🔗</a> |
-| DP |  <a href="https://www.acmicpc.net/problem/10844">쉬운 계단 수</a> | <a href="">🔗</a> |
-<br>
 
-```
-To. Reviewers
-```
 ### Commit Message
 [Baekjoon-문제번호] 문제명
 
  
 ## 주차 별 문제풀이 
-https://github.com/tony9402/baekjoon &&  https://www.acmicpc.net/group/workbook/22697
+
+### Week 10 (25.03.24 ~ 25.03.31)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/1197">최소 스패닝 트리</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/1238">파티 | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/14940">쉬운 최단거리</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/11403">경로찾기</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/16928">뱀과 사다리 게임  </a> | <a href="">🔗</a> |
+<br>
+
+### Week 09 (25.03.17 ~ 25.03.23)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/1012">유기농 배추</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/1260">DFS와 BFS| <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/1697">숨바꼭질</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/10026">적록색약</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/11404">플로이드 </a> | <a href="">🔗</a> |
+<br>
+
+### Week 08 (25.03.10 ~ 25.03.16)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/15663">N과 M (9)</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/11725">트리의 부모 찾기| <a href="">🔗</a> |
+| DP |  <a href="https://www.acmicpc.net/problem/11660">구간 합 구하기 5</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/5639">이진 검색 트리</a> | <a href="">🔗</a> |
+| 그래프 |  <a href="https://www.acmicpc.net/problem/1753">최단경로 </a> | <a href="">🔗</a> |
+<br>
+
+### Week 07 (25.03.04 ~ 25.03.09)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/15652">N과 M (4)</a> | <a href="">🔗</a> |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/15654">N과 M (5)     | <a href="">🔗</a> |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/15655">N과 M (6)</a> | <a href="">🔗</a> |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/1759">암호 만들기</a> | <a href="">🔗</a> |
+| 백트래킹 |  <a href="https://www.acmicpc.net/problem/16938">캠프 준비 </a> | <a href="">🔗</a> |
+<br>
+
+### Week 06 (25.02.25 ~ 25.03.03)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 |  <a href="https://www.acmicpc.net/problem/1094">막대</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/11053">가장 긴 증가하는 부분수열</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/6603">로또 </a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/15651">N과 M (3)</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/1074">Z </a> | <a href="">🔗</a> |
+<br>
+
+### Week 05 (25.02.17 ~ 25.02.24)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| 구현 |  <a href="https://www.acmicpc.net/problem/4659">비밀번호 발음하기</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/25757">임스와 함께하는 미니게임</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/20125">쿠키의 신체측정 </a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/1205">등수 구하기</a> | <a href="">🔗</a> |
+| 구현 |  <a href="https://www.acmicpc.net/problem/1244">스위치 켜고 끄기 </a> | <a href="">🔗</a> |
+<br>
  
 ### Week 04 (25.02.10 ~ 25.02.17)
 | Category | Title | Link |
