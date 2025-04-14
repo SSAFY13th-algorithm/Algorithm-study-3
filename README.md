@@ -28,7 +28,7 @@
 | :------: | :---: | :--: |
 | DP |  <a href="https://www.acmicpc.net/problem/9465">스티커</a> | <a href="">🔗</a> |
 | 수학 |  <a href="https://www.acmicpc.net/problem/1629">곱셈</a> | <a href="">🔗</a> |
-| 수학 |  <a href="https://www.acmicpc.net/problem/11444">피보나치 수 6</a> | <a href="">🔗</a> |
+| 자료구조 |  <a href="https://www.acmicpc.net/problem/1918">후위 표기식</a> | <a href="">🔗</a> |
 | 그래프 |  <a href="https://www.acmicpc.net/problem/2206">벽 부수고 이동하기</a> | <a href="">🔗</a> |
 | 그래프 |  <a href="https://www.acmicpc.net/problem/1865">웜홀</a> | <a href="">🔗</a> |
 | 그래프 |  <a href="https://www.acmicpc.net/problem/13549">숨바꼭질 3</a> | <a href="">🔗</a> |
