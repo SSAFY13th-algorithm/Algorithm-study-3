@@ -23,6 +23,17 @@
  
 ## 주차 별 문제풀이 
 
+### Week 14 (25.04.22 ~ 25.04.29)
+| Category | Title | Link |
+| :------: | :---: | :--: |
+| DP |  <a href="https://www.acmicpc.net/problem/2629">양팔저울</a> | <a href="">🔗</a> |
+| DP |  <a href="https://www.acmicpc.net/problem/1699">제곱수의 합</a> | <a href="">🔗</a> |
+| DP |  <a href="https://www.acmicpc.net/problem/14503">로봇 청소기</a> | <a href="">🔗</a> |
+| DP |  <a href="https://www.acmicpc.net/problem/17142">연구소 3</a> | <a href="">🔗</a> |
+| DP |  <a href="https://www.acmicpc.net/problem/2133">타일 채우기</a> | <a href="">🔗</a> |
+<br>
+
+
 ### Week 13 (25.04.14 ~ 25.04.21)
 | Category | Title | Link |
 | :------: | :---: | :--: |
